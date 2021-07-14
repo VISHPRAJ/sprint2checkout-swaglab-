@@ -12,3 +12,8 @@ import io.cucumber.junit.CucumberOptions;
 public class TestRunnerCheckout {
 }
 
+
+//To Do
+//launch application
+//testng
+//excelsheet
